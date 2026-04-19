@@ -31,4 +31,4 @@
 ---
 
 ## 📫 Connect with me
-LinkedIn: (add your link later)
+LinkedIn: 
