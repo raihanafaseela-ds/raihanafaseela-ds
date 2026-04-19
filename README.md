@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Raihana 👋
 
-<!--
-**raihanafaseela-ds/raihanafaseela-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about turning data into insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Machine Learning
+- Deep Learning
+
+---
+
+## 📂 Projects
+🔹 Bank Customer Loan Prediction (Machine Learning)  
+🔹 Driver Drowsiness Detection (Deep Learning)  
+🔹 IPL Players Dashboard (Tableau)  
+🔹 FirstCry Return & Refund Analysis (Power BI)
+
+---
+
+## 💡 What I’m focusing on
+- Improving data analysis skills  
+- Building real-world projects  
+- Preparing for Data Analyst roles  
+
+---
+
+## 📫 Connect with me
+LinkedIn: (add your link later)
