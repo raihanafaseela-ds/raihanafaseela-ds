@@ -16,7 +16,7 @@
 ---
 
 ## 📂 Projects
-🔹 Bank Customer Loan Prediction (Machine Learning)  
+🔹 Bank Customer Deposit Prediction (Machine Learning)  
 🔹 Driver Drowsiness Detection (Deep Learning)  
 🔹 IPL Players Dashboard (Tableau)  
 🔹 FirstCry Return & Refund Analysis (Power BI)
